@@ -1,4 +1,8 @@
 ### Hi there 👋
+俺是一个不怎么会写代码的菜鸡，平日主要在知乎灌水
+
+俺知乎主页：<https://www.zhihu.com/people/tan_90>
+
 
 <!--
 **Tangent-90C/Tangent-90C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
