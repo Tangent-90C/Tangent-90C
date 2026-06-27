@@ -3,6 +3,7 @@
 
 俺知乎主页：<https://www.zhihu.com/people/tan_90>
 
+<a href="https://githubroast.icu/u/Tangent-90C"><img src="https://githubroast.icu/api/card/Tangent-90C" alt="GitHub Roast" width="600" /></a>
 
 <!--
 **Tangent-90C/Tangent-90C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
