@@ -3,6 +3,13 @@
 
 俺知乎主页：<https://www.zhihu.com/people/tan_90>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tangent-90C/Tangent-90C/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tangent-90C/Tangent-90C/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tangent-90C/Tangent-90C/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 <a href="https://githubroast.icu/u/Tangent-90C"><img src="https://githubroast.icu/api/card/Tangent-90C" alt="GitHub Roast" width="600" /></a>
 
 <!--
