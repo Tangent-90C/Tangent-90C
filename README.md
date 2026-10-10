@@ -9,9 +9,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tangent-90C/Tangent-90C/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-<a href="https://githubroast.icu/u/Tangent-90C"><img src="https://githubroast.icu/api/card/Tangent-90C" alt="GitHub Roast" width="600" /></a>
-
 <!--
 **Tangent-90C/Tangent-90C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
